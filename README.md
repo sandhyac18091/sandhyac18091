@@ -4,7 +4,7 @@
 
 -  I’m currently learning: `NestJS`, `Solidity`, `React Native`
 -  Ask me about: `React`, `JavaScript`, `MongoDB`, `Express`, `Go`
--  How to reach me: [LinkedIn]([[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/sandhya-c-1a4382281/)](https://www.linkedin.com/in/sandhya-c-1a4382281/)) | [Portfolio](https://yourportfolio.com)
+-  How to reach me: [LinkedIn]([LinkedIn](https://www.linkedin.com/in/yourprofile)) | [Portfolio](https://yourportfolio.com)
 -  Fun fact: I love cats 🐱 and K-Dramas 🎬
 
 ## 🛠️ Tech Stack
