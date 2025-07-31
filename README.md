@@ -1,4 +1,6 @@
-# 💫 About Me:
+# Hi there 👋, I'm Sandhya!
+### Front-End Developer | MERN Stack Enthusiast | Blockchain Learner
+
 I’m currently learning: NestJS, Solidity, React Native<br>Ask me about: React, JavaScript, MongoDB, Express, Go<br>Connect with me: LinkedIn | Portfolio<br>Fun fact: I love cats 🐱 and K-Dramas 🎬
 
 
