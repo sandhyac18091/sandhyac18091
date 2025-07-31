@@ -1,7 +1,12 @@
 # Hi there 👋, I'm Sandhya!
 ### Front-End Developer | MERN Stack Enthusiast | Blockchain Learner
 
-I’m currently learning: NestJS, Solidity, React Native<br>Ask me about: React, JavaScript, MongoDB, Express, Go<br>Connect with me: LinkedIn | Portfolio<br>Fun fact: I love cats 🐱 and K-Dramas 🎬
+
+I am a passionate **Full-Stack Developer** with strong expertise in both frontend and backend technologies. With a keen interest in **Blockchain**, I aim to build innovative and scalable solutions that bridge the gap between cutting-edge tech and real-world impact.
+
+🎓 Currently pursuing a **PG Diploma in Blockchain Technology** at [Kerala Blockchain Academy](https://kba.ai), I’m deepening my understanding of decentralized ecosystems, smart contracts, and Web3 applications.
+
+🚀 My mission is to contribute to projects that empower transparency, security, and trust through blockchain innovation.
 
 
 ## 🌐 Socials:
